@@ -7,7 +7,7 @@ const Alexa = require('ask-sdk-core');
 const STREAMS = [
   {
     'token': 'dabble-radio-1',
-    'url': 'https://ia801308.us.archive.org/28/items/Refaat/Refaat009.mp3',
+    'url': 'https://archive.org/download/90---azan---90---azan--many----sound----mp3---alazan/052-.mp3',
     'metadata': {
       'title': 'Dabble Radio',
       'subtitle': 'Music for coders',
