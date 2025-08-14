@@ -7,7 +7,7 @@ const Alexa = require('ask-sdk-core');
 const STREAMS = [
   {
     'token': 'dabble-radio-1',
-    'url': 'https://archive.org/download/90---azan---90---azan--many----sound----mp3---alazan/052-.mp3',
+    'url': 'https://nuralaanur.com/wp-content/uploads/2023/09/Edit-Post-%D8%A7%D8%B0%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D8%AC%D8%B1-%D8%A8%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B5%D9%85%D8%AF-%E2%80%B9-Nur-alaa-Nur-%D9%86%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D9%86%D9%88%D8%B1-%E2%80%94-WordPress.mp3',
     'metadata': {
       'title': 'Dabble Radio',
       'subtitle': 'Music for coders',
